@@ -5,5 +5,5 @@ config all TKP Semua kartu BYe Tim Kumpulan Remaja
 Support Web 
 
 
-Tutor/Info : Kumpulanremaja.com
-Creta SSH : hidessh.com
+Tutor/Info : https://Kumpulanremaja.com
+Create SSH : https://hidessh.com
